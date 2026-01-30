@@ -1,4 +1,4 @@
-"""Utility to expand environment variables in st.secrets using singleton."""
+"""Utility for OAuth access token retrieval."""
 import os
 import httpx
 
